@@ -22,6 +22,11 @@ Example:
 python port_scanner.py 127.0.0.1 -s 1 -e 1000
 ```
 
+### linux
+```bash
+python3 port_scanner.py <ip_address> [-s START_PORT] [-e END_PORT]
+```
+
 ## Disclaimer
 
 For educational use only. Ensure you have permission before scanning any network or system.
